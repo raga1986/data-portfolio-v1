@@ -1,1 +1,3 @@
-# data-portfolio-v1
+# Data Portfolio
+
+This repository contains code of my first portfolio.
